@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/dayfive/static/js/main.22651130.js",
+    "main.js": "/dayfive/static/js/main.8cfcf7d2.js",
     "static/js/453.c277ecbf.chunk.js": "/dayfive/static/js/453.c277ecbf.chunk.js",
     "index.html": "/dayfive/index.html",
-    "main.22651130.js.map": "/dayfive/static/js/main.22651130.js.map",
+    "main.8cfcf7d2.js.map": "/dayfive/static/js/main.8cfcf7d2.js.map",
     "453.c277ecbf.chunk.js.map": "/dayfive/static/js/453.c277ecbf.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.22651130.js"
+    "static/js/main.8cfcf7d2.js"
   ]
 }
